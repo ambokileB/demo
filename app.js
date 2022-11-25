@@ -1,7 +1,7 @@
-function main=()=>{
+function app = ()=>{
     return(
         <div>
-        hello
+        hello appp
         
         </div>
     )
