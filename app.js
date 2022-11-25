@@ -1,7 +1,7 @@
 function app = ()=>{
     return(
         <div>
-        hello appp
+        welcome to hello app js 
         
         </div>
     )
